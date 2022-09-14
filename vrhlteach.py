@@ -1,13 +1,9 @@
 #Discord Bot Made for VRHL Teaching server#
 
 import datetime
-import os
-import json
 import math
 import random
 from typing import Optional
-from tkinter import Entry
-from typing_extensions import Self
 import asyncio
 import discord
 import typing
